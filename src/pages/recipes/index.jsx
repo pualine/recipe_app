@@ -9,7 +9,7 @@ export default function Recipes() {
     //  initial step
 // Prepare URL
 const url = new URL("https://api.spoonacular.com/recipes/complexSearch");
-url.searchParams.append('apiKey', 'da19c830129a44c68ce022c1783205be');
+url.searchParams.append('apiKey', '7f95c40a8aca4e609ee21321613b911a');
 // url.searchParams.append('number', 6);
 
  // Get Recipe from API
