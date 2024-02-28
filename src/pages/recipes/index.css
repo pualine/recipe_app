@@ -3,3 +3,9 @@
    left: 20%;
    top: 40%;
 }
+
+.LoadingIcon{
+    position: absolute;
+    left: 28%;
+    width: 40%;
+}
